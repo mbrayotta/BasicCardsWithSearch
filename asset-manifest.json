@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BasicCardsWithSearch/static/css/main.b625955b.chunk.css",
+    "main.js": "/BasicCardsWithSearch/static/js/main.dc7a3bcc.chunk.js",
+    "main.js.map": "/BasicCardsWithSearch/static/js/main.dc7a3bcc.chunk.js.map",
+    "runtime~main.js": "/BasicCardsWithSearch/static/js/runtime~main.f4911cec.js",
+    "runtime~main.js.map": "/BasicCardsWithSearch/static/js/runtime~main.f4911cec.js.map",
+    "static/js/2.b3f2c5c4.chunk.js": "/BasicCardsWithSearch/static/js/2.b3f2c5c4.chunk.js",
+    "static/js/2.b3f2c5c4.chunk.js.map": "/BasicCardsWithSearch/static/js/2.b3f2c5c4.chunk.js.map",
+    "index.html": "/BasicCardsWithSearch/index.html",
+    "precache-manifest.970d42652736df3cb8f964b5f0461393.js": "/BasicCardsWithSearch/precache-manifest.970d42652736df3cb8f964b5f0461393.js",
+    "service-worker.js": "/BasicCardsWithSearch/service-worker.js",
+    "static/css/main.b625955b.chunk.css.map": "/BasicCardsWithSearch/static/css/main.b625955b.chunk.css.map"
+  }
+}
